@@ -10,7 +10,9 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>spring-circular-dependencies</module>
+        <module>spring-core</module>
+        <module>algorithm</module>
+        <module>netty-demo</module>
     </modules>
 
     <properties>
